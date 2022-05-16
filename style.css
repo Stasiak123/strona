@@ -1,4 +1,25 @@
 .menu1{
     background-color: gray;
+    color: whites;
     height: 100px;
+}
+.str1{
+    width: 100px;
+    margin-left: 10px;
+   
+
+}
+
+.str2
+{
+    width: 100px;
+    margin-left: 40px;
+    
+}
+.menu2{
+    position: absolute;
+    background-color: gray;
+    color: white;
+    height: auto;
+    width: 120px;
 }
